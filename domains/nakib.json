@@ -1,8 +1,9 @@
 {
     "owner": {
-        "username": "nakibuddin"
+        "username": "nakibuddin",
+        "email": "fliptechofficial@gmail.com"
     },
     "records": {
-        "CNAME": "nakibuddin.vercel.app"
+        "A": ["216.198.79.1"]
     }
 }
